@@ -12,7 +12,7 @@
         "kind": 2,
         "importPath": "flaskdemo",
         "description": "flaskdemo",
-        "peekOfCode": "def index():\n    return 'Hello flask from Python Developer!!'\napp.run(host='0.0.0.0', port=81)",
+        "peekOfCode": "def index():\n    return 'Hello flask from Python Developer!!!'\napp.run(host='0.0.0.0', port=81)",
         "detail": "flaskdemo",
         "documentation": {}
     },
@@ -21,7 +21,7 @@
         "kind": 5,
         "importPath": "flaskdemo",
         "description": "flaskdemo",
-        "peekOfCode": "app = Flask(__name__)\n@app.route('/')\ndef index():\n    return 'Hello flask from Python Developer!!'\napp.run(host='0.0.0.0', port=81)",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/')\ndef index():\n    return 'Hello flask from Python Developer!!!'\napp.run(host='0.0.0.0', port=81)",
         "detail": "flaskdemo",
         "documentation": {}
     }
